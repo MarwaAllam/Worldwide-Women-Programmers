@@ -2,7 +2,7 @@
 
 **Project Name: Project Impact of Internet on Women’s Health** 
 
-Hackathon Udacity Data Science Scholarship Powered by Bertelsmann 4-5 August 2018
+Hackathon Udacity Data Science Scholarship Powered by Bertelsman 4-5 August 2018
 
 By Marwa Allam, Lisa Weiss, Sanskriti Bajaj, Sameeksha Mahajan and Gabriela Urquieta
 
